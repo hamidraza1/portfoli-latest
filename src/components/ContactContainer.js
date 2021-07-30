@@ -7,7 +7,7 @@ const contactContainer = (props) => {
   };
   const cvClickHandler = () => {
     window.location.href =
-      "https://raw.githubusercontent.com/hamzaable/Portfolio/130d94e53ad531d866392a7b93dadca4ba659589/HamzaCV.pdf";
+      "https://github.com/hamidraza1/portfoli-latest/raw/main-hamidraza/HamidCV-Latest.pdf";
   };
   return (
     <div className="px-5 mx-auto max-w-lg md:w-1/4 md:self-end md:mb-4">
